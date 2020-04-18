@@ -1,5 +1,5 @@
 # Packages
-Package for spatial estimation of  sample size 
+Package for spatial estimation of sample size 
 
 # Usage
 
