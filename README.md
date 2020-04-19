@@ -4,14 +4,14 @@ Package for spatial estimation of sample size
 # Usage
 
 ## if needed
-install.packages("devtools")
+    install.packages("devtools")
 
 ## main package
-library(devtools)
+    library(devtools)
 
-install_github('Packages','armelsoubeiga',subdir="popsize")
+    install_github('Packages','armelsoubeiga',subdir="popsize")
 
 ## to access help pages
-library(popsize)
+    library(popsize)
 
-help(package=popsize)
+    help(package=popsize)
