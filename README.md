@@ -9,7 +9,7 @@ Package for spatial estimation of sample size
 ## main package
     library(devtools)
 
-    install_github('Packages','armelsoubeiga',subdir="popsize")
+    install_github('Popsize','armelsoubeiga',subdir="popsize")
 
 ## to access help pages
     library(popsize)
